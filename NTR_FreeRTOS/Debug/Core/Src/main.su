@@ -1,0 +1,8 @@
+../Core/Src/main.c:85:5:main	24	static
+../Core/Src/main.c:151:6:SystemClock_Config	88	static
+../Core/Src/main.c:202:6:LedToggle	24	static
+../Core/Src/main.c:214:6:GiveSem	32	static
+../Core/Src/main.c:229:6:TakeSem	32	static
+../Core/Src/main.c:244:5:__io_putchar	16	static
+../Core/Src/main.c:260:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:277:6:Error_Handler	4	static,ignoring_inline_asm
